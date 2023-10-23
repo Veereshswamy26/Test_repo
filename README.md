@@ -5,3 +5,4 @@ Changes made locally
 Changes2 made remotely
 chnages3 made locally
 changes made remotely for fetch
+changes made for git pull
